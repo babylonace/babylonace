@@ -1,5 +1,5 @@
-Hey there! Most of all, I like creating and recreating things. And of course, why create something if it's not to share it?
-If you find one of my projects useful, great!
+Hi there. Most of all, I like making and remaking things. And of course, why create something if it's not to share it?
+Hope you find one of my projects useful! 
 
 **Projects**
 
