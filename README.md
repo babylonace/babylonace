@@ -1,13 +1,12 @@
-Hey there! Most of all, I like creating and recreating things. And of course, why create something if it's not to share it?
-If you find one of my projects useful, great!
+Hi there. Most of all, I like making and remaking things. And of course, why create something if it's not to share it?
+Hope you find one of my projects useful!
 
 I'm a mechatronics engineer from Peru, living in Málaga, and I build small web products end to end.
 
 **Projects**
 
-- **[multilingual-restaurant-website](https://github.com/babylonace/multilingual-restaurant-website)** · the whole website of
-  a Peruvian restaurant in Spain, in 10 languages (including right-to-left Arabic). Static pages, strict TypeScript,
-  Lighthouse on mobile from 44 to 95, automated tests and accessibility checks on every change.
+- **[multilingual-restaurant-website](https://github.com/babylonace/multilingual-restaurant-website)** · the website and menu of a Peruvian restaurant in Spain, in 10 languages
+  (including right-to-left Arabic). Lighthouse on mobile went from 44 to 95, with 657 automated tests.
   [See it live →](https://inkawasi.es)
 - **[rental-edge-functions](https://github.com/babylonace/rental-edge-functions)** · the serverless backend of seven rental
   apartments in Peru: Airbnb calendars, a public availability search, Wi-Fi access for guests and a staff login.
@@ -19,5 +18,5 @@ I'm a mechatronics engineer from Peru, living in Málaga, and I build small web 
 Some changes are AI-assisted, and they get the same checks as the rest. The details, including what is not checked, are in
 [How this repository is developed](https://github.com/babylonace/multilingual-restaurant-website/blob/main/docs/how-this-repo-is-developed.md).
 
-**Tools:** TypeScript, JavaScript, HTML and CSS, Astro, Node.js, Cloudflare (Pages, Functions, Access),
+**Tools I use:** TypeScript, JavaScript, HTML and CSS, Astro, Node.js, Cloudflare (Pages, Functions, Access),
 Vitest, Playwright, GitHub Actions.
