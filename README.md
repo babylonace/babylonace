@@ -12,7 +12,7 @@ I'm a mechatronics engineer from Peru, living in Málaga, and I build small web 
   apartments in Peru: Airbnb calendars, a public availability search, Wi-Fi access for guests and a staff login.
   No server, no database, zero dependencies. [Try the search →](https://wallaraperu.com)
 - **[repaso](https://github.com/babylonace/repaso)** · free practice for software engineering interviews, in English and
-  Spanish. No signup, no ads. [Try it →](https://babylonace.github.io/repaso/)
+  Spanish. No signup, no ads. [Try it →](https://repaso.babylonace.dev/)
 
 **How I work:** every change goes through a branch, a pull request and automated checks before it reaches `main`.
 Some changes are AI-assisted, and they get the same checks as the rest. The details, including what is not checked, are in
