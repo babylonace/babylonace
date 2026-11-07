@@ -1,7 +1,6 @@
-Hi there. Most of all, I like making and remaking things. And of course, why create something if it's not to share it?
-Hope you find one of my projects useful!
+Hi there. I'm a mechatronics engineer from Peru, living in Málaga, and I build small web products end to end.
 
-I'm a mechatronics engineer from Peru, living in Málaga, and I build small web products end to end.
+Most of all, I like making and remaking things. And of course, why create something if it's not to share it? These are the three public repos I'd point you to, each with a live link so you can try it.
 
 **Projects**
 
